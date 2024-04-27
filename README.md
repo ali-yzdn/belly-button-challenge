@@ -16,8 +16,6 @@ This repository contains code for an interactive dashboard to explore the Belly 
 To get a local copy up and running follow these simple steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/belly-button-biodiversity-dashboard.git
 
 2. Open index.html in your web browser.
 
@@ -33,21 +31,9 @@ To get a local copy up and running follow these simple steps:
 
 The data used in this dashboard is sourced from the Belly Button Biodiversity dataset. The dataset is publicly available and can be accessed at [Belly Button Biodiversity Project](https://bellybuttondiversity.herokuapp.com/).
 
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- D3.js
-- Plotly.js
-
 ## Deployment
 
-The dashboard is deployed using GitHub Pages. You can access it [here](https://your-username.github.io/belly-button-biodiversity-dashboard/).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+The dashboard is deployed using GitHub Pages. 
 
 ## Acknowledgements
 
